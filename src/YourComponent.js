@@ -135,6 +135,22 @@ export const YourComponent = () => {
   //   console.log("___________");
   // }, [mintData, isMintLoading, isMintStarted]);
 
+  
+  
+  
+  
+  // READ AND WRITE USING ETHERJS
+              const { data: signerData } = useSigner();
+              const transferTokens = useContract({
+                addressOrName: CONTRACT_ADDRESS,
+                contractInterface: factoryAbi,
+                signerOrProvider: signerData,
+              });
+
+              const handleToken = async () => {
+                await transferTokens.setFees(1,2,3,4);
+                let pp = await transferTokens.GetUserTokens(address);
+              }
 
   return (
     <>
