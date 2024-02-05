@@ -8,6 +8,10 @@
         {
             "trait_type": "Type",
             "value": "Voodoo"
+        },
+         {
+            "trait_type": "Color",
+            "value": "Black"
         }
     ]
 }
