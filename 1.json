@@ -9,9 +9,49 @@
             "trait_type": "Type",
             "value": "Voodoo"
         },
-         {
-            "trait_type": "Color",
-            "value": "Black"
+        {
+            "trait_type": "Attack Speed",
+            "value": "1.04"
+        },
+        {
+            "trait_type": "Body Type",
+            "value": "3"
+        },
+        {
+            "trait_type": "Head Type",
+            "value": "2"
+        },
+        {
+            "trait_type": "Damage",
+            "value": "9"
+        },
+        {
+            "trait_type": "HP",
+            "value": "116"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "1.07"
+        },
+        {
+            "trait_type": "Level",
+            "value": "1"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Max Daily Hunt Limit",
+            "value": "5"
+        },
+        {
+            "trait_type": "Accessory #1",
+            "value": "0"
+        },
+        {
+            "trait_type": "Accessory #2",
+            "value": "1"
         }
     ]
 }
