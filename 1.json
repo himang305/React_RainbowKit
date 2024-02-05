@@ -1,1 +1,13 @@
-{"description":"\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won’t be two identical Hunters...ever!","external_url":"https://boomland.io","image":"https://hunt-nft.cdn.boombit.cloud/Gifs/011/0110000403020000000000.gif","animationUrl":"https://hunt-nft.cdn.boombit.cloud/Recordings/011/01100004030200.webm","name":"#22867 - Frozen Queen","attributes":[{"trait_type":"Type","value":"Frozen Queen"},{"trait_type":"Attack Speed","value":"1.05"},{"trait_type":"Body Type","value":"0"},{"trait_type":"Head Type","value":"4"},{"trait_type":"Damage","value":"9"},{"trait_type":"HP","value":"107"},{"trait_type":"Speed","value":"0.94"},{"trait_type":"Level","value":"1"},{"trait_type":"Rarity","value":"Common"},{"trait_type":"Max Daily Hunt Limit","value":"5"},{"trait_type":"Accessory #1","value":"3"},{"trait_type":"Accessory #2","value":"2"}]}
+{
+    "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won’t be two identical Hunters...ever!",
+    "external_url": "https://boomland.io",
+    "image": "https://hunt-nft.cdn.boombit.cloud/Gifs/005/0050030200010000000000.gif",
+    "animationUrl": "https://hunt-nft.cdn.boombit.cloud/Recordings/005/00500302000100.webm",
+    "name": "#5715 - Voodoo",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Voodoo"
+        }
+    ]
+}
