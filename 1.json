@@ -1,9 +1,9 @@
 {
   "description": "\"Hunters\" are the playable non-fungible tokens of Hunters On-Chain, published by BoomLand (boomland.io). Each Hunter is unique and there won’t be two identical Hunters...ever!",
   "external_url": "https://boomland.io",
-  "image": "https://hunt-nft.cdn.boombit.cloud/Gifs/011/0110000403020000000000.gif",
+  "image": "https://hunt-nft.cdn.boombit.cloud/Gifs/009/0090050000010000000000.gif",
   "animationUrl": "https://hunt-nft.cdn.boombit.cloud/Recordings/011/01100004030200.webm",
-  "name": "#22867 - Frozen Queen",
+  "name": "#22867 - Snow Queen",
   "attributes": [
     {
       "trait_type": "Type",
